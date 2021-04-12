@@ -1,45 +1,45 @@
 # NAMPTiDBv.1.0
 A collection of 1627 experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database (2019.12.15)
 
-#COLUMNNAME
-Molecule ChEMBL ID --> 
-Molecule Name --> 
-Molecule Max Phase --> 
-Molecular Weight --> 
-#RO5 Violations --> 
-AlogP --> 
-Compound Key --> 
-Smiles --> 
-Standard Type --> 
-Standard Relation --> 
-Standard Value --> 
-Standard Units --> 
-pChEMBL Value --> 
-Data Validity Comment --> 
-Comment --> 
-Uo Units --> 
-Ligand Efficiency BEI --> 
-Ligand Efficiency LE --> 
-Ligand Efficiency LLE --> 
-Ligand Efficiency SEI --> 
-Potential Duplicate --> 
-Assay ChEMBL ID --> 
-Assay Description --> 
-Assay Type --> 
-BAO Format ID --> 
-BAO Label --> 
-Assay Organism --> 
-Assay Tissue ChEMBL ID --> 
-Assay Tissue Name --> 
-Assay Cell Type --> 
-Assay Subcellular Fraction --> 
-Target ChEMBL ID --> 
-Target Name --> 
-Target Organism --> 
-Target Type --> 
-Document ChEMBL ID --> 
-Source ID --> 
-Source Description --> 
-Document Journal --> 
-Document Year --> 
-Cell ChEMBL ID --> 
+#ORIGINALCOLUMNNAME --> 
+Molecule ChEMBL ID --> Molecule_ChEMBL_ID
+Molecule Name --> Molecule_Name
+Molecule Max Phase --> Molecule_Max_Phase
+Molecular Weight --> Molecular_Weight
+#RO5 Violations --> #RO5_Violations
+AlogP --> AlogP (SAME)
+Compound Key --> Compound_Key
+Smiles --> Smiles (SAME)
+Standard Type --> Standard_Type
+Standard Relation --> Standard_Relation
+Standard Value --> Standard_Value
+Standard Units --> Standard_Units
+pChEMBL Value --> pChEMBL_Value
+Data Validity Comment --> Data_Validity_Comment
+Comment --> Comment (SAME)
+Uo Units --> Uo_Units
+Ligand Efficiency BEI --> Ligand_Efficiency_BEI
+Ligand Efficiency LE --> Ligand_Efficiency_LE
+Ligand Efficiency LLE --> Ligand_Efficiency_LLE
+Ligand Efficiency SEI --> Ligand_Efficiency_SEI
+Potential Duplicate --> Potential_Duplicate
+Assay ChEMBL ID --> Assay_ChEMBL_ID
+Assay Description --> Assay_Description
+Assay Type --> Assay_Type
+BAO Format ID --> BAO_Format_ID
+BAO Label --> BAO_Label
+Assay Organism --> Assay_Organism
+Assay Tissue ChEMBL ID --> Assay_Tissue_ChEMBL_ID
+Assay Tissue Name --> Assay_Tissue_Name
+Assay Cell Type --> Assay_Cell_Type
+Assay Subcellular Fraction --> Assay_Subcellular_Fraction
+Target ChEMBL ID --> Target_ChEMBL_ID
+Target Name --> Target_Name
+Target Organism --> Target_Organism
+Target Type --> Target_Type
+Document ChEMBL ID --> Document_ChEMBL_ID
+Source ID --> Source_ID
+Source Description --> Source_Description
+Document Journal --> Document_Journal
+Document Year --> Document_Year
+Cell ChEMBL ID --> Cell_ChEMBL_ID
