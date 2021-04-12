@@ -1,7 +1,18 @@
 # NAMPTiDBv.1.0
-A collection of 1627 experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database (2019.12.15)
+# STEPS
+Step 01 - 
+Step 02 - 
+Step 03 - 
+Step 04 -
+Step 05 - 
+Step 06 - 
+Step 07 - 
+Step 08 - 
+Step 09 - 
+Step 10 - 
+Step 11 - A collection of 1627 experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database (2019.12.15)
 
-#ORIGINALCOLUMNNAME --> 
+**#ORIGINALCOLUMNNAME --> **
 Molecule ChEMBL ID --> Molecule_ChEMBL_ID
 Molecule Name --> Molecule_Name
 Molecule Max Phase --> Molecule_Max_Phase
