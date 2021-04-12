@@ -2,7 +2,7 @@
 # STEPS (A collection of experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database; 2019.12.15)
 Step 01 - searched compounds in ChEMBL by using "NAMPT" as a query word
 Step 02 - selected ChEMBL1744525 which consists 2434 records (a.k.a compounds) and 2748 activities against human NAMPT (hNAMPT)  
-Step 02.01 - selected "Target Report Card of ChEMBL1744525"
+Step 02.01 - selected "Target Report Card of ChEMBL1744525" (https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1744525/)
 Step 02.02 - selected "Ligand Efficiencies"
 Step 03 - clicked "ChEMBL Ligand Efficiency Plot for Target ChEMBL1744525"
 Step 04 - selected records with known only IC50 (2509 records)
