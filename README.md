@@ -16,7 +16,13 @@ Step 10 - checked "select all"
 Step 11 - downloaded all of the compounds (1627 records) as a CSV file 
 Step 12 - downloaded all of the compounds (1627 records) as a TSV file as well as an excel file
 Step 13 - I made a reference table that show how to convert IC50 into pIC50
-Step 14 
+Step 14 - selected records or compounds with pIC50 ≥ 5 = IC50 ≤ 10 µM
+Step 15 - The list of 1619 records with pIC50 ≥ 5 = IC50 ≤ 10 µM (several redudancies found)
+Step 16 - identified redundant records by using "duplicates detector" web service (http://www.dcode.fr/duplicates-detector)
+Step 17 - The list of 117 redundant records among 1619 records 
+Step 18 - The list of 1619 records/compounds/NAMPT inhibitors with pIC50 ≥ 5 = IC50 ≤ 10 µM (117 records had more than one IC50/pIC50 value)
+Step 19 - The list of 1502 unique records/compounds/NAMPT inhibitors with pIC50 ≥ 5 = IC50 ≤ 10 µM
+Step 20 - (based on the suggestion of Prof. Santina Bruzzone & both D. Savita Bisht and PD AG Dr. med. Georg Feldmann) The list of 1438 unique records/compounds/NAMPT inhibitors with pIC50 ≥ 6 = IC50 ≤ 1 µM
 
 **#ORIGINALCOLUMNNAME --> **
 Molecule ChEMBL ID --> Molecule_ChEMBL_ID
