@@ -1,16 +1,22 @@
 # NAMPTiDBv.1.0
-# STEPS
-Step 01 - 
-Step 02 - 
-Step 03 - 
-Step 04 -
-Step 05 - 
-Step 06 - 
-Step 07 - 
-Step 08 - 
-Step 09 - 
-Step 10 - 
-Step 11 - A collection of 1627 experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database (2019.12.15)
+# STEPS (A collection of experimentally validated small molecule inhibitors of NAMPT enzyme obtained from ChEMBL database; 2019.12.15)
+Step 01 - searched compounds in ChEMBL by using "NAMPT" as a query word
+Step 02 - selected ChEMBL1744525 which consists 2434 records (a.k.a compounds) and 2748 activities against human NAMPT (hNAMPT)  
+Step 02.01 - selected "Target Report Card of ChEMBL1744525"
+Step 02.02 - selected "Ligand Efficiencies"
+Step 03 - clicked "ChEMBL Ligand Efficiency Plot for Target ChEMBL1744525"
+Step 04 - selected records with known only IC50 (2509 records)
+Step 05 - selected "BAO Format" and then "Single Protein Format" (2162 records)
+Step 06 - filtered the records by pressing "filter - select all"
+Step 07 - selected both ChEMBL3888191 (1062 records) and ChEMBL3888190 (565 records)
+Step 07.01 - again, filtered the records by selecting "filter - select all"
+Step 08 - selected all (1627) records (565 records from ChEMBL3888190 & 1062 records from ChEMBL3888191)
+Step 09 - clicked "Show/Hide Columns" button
+Step 10 - checked "select all"
+Step 11 - downloaded all of the compounds (1627 records) as a CSV file 
+Step 12 - downloaded all of the compounds (1627 records) as a TSV file as well as an excel file
+Step 13 - I made a reference table that show how to convert IC50 into pIC50
+Step 14 
 
 **#ORIGINALCOLUMNNAME --> **
 Molecule ChEMBL ID --> Molecule_ChEMBL_ID
