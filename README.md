@@ -66,3 +66,10 @@ Source Description --> Source_Description
 Document Journal --> Document_Journal
 Document Year --> Document_Year
 Cell ChEMBL ID --> Cell_ChEMBL_ID
+
+**
+#DIFFERENT_BETWEEN_input_1438_unique_NAMPTis_step20_2020.05.29_original_VS_input_1438_unique_NAMPTis_step20_2020.05.29_modified**
+In the "input_1438_unique_NAMPTis_step20_2020.05.29_modified", I deleted the following additional columns:
+No (original)	
+No (sort by pIC50)	
+No (final; sorted by pChEMBL value)
