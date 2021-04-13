@@ -30,13 +30,19 @@ In the "input_1438_unique_NAMPTis_step20_2020.05.29_modified", I deleted the fol
 No (original)	
 No (sort by pIC50)	
 No (final; sorted by pChEMBL value)
+Redudancy
 
 **#ORIGINAL_COLUMN_NAME_VS_MODIFIED COLUM_NAME --> **
+No (original)	--> DELETED
+No (sort by pIC50)	--> DELETED
+No (final; sorted by pChEMBL value) --> DELETED
 Molecule ChEMBL ID --> Molecule_ChEMBL_ID
+pChEMBL Value ---> MERGED --> pChEMBL_Value_Merged
+Redudancy --> DELETED
 Molecule Name --> Molecule_Name
 Molecule Max Phase --> Molecule_Max_Phase
 Molecular Weight --> Molecular_Weight
-#RO5 Violations --> #RO5_Violations
+#RO5 Violations --> RO5_Violations
 AlogP --> AlogP (KEPT)
 Compound Key --> Compound_Key
 Smiles --> Smiles (KEPT)
@@ -44,7 +50,7 @@ Standard Type --> Standard_Type
 Standard Relation --> Standard_Relation
 Standard Value --> Standard_Value
 Standard Units --> Standard_Units
-pChEMBL Value --> pChEMBL_Value
+pChEMBL Value --> ORIGINAL (ONE) --> pChEMBL_Value_Original
 Data Validity Comment --> Data_Validity_Comment
 Comment --> Comment (KEPT)
 Uo Units --> Uo_Units
