@@ -24,22 +24,29 @@ Step 18 - The list of 1619 records/compounds/NAMPT inhibitors with pIC50 ≥ 5 =
 Step 19 - The list of 1502 unique records/compounds/NAMPT inhibitors with pIC50 ≥ 5 = IC50 ≤ 10 µM
 Step 20 - (based on the suggestion of Prof. Santina Bruzzone & both D. Savita Bisht and PD AG Dr. med. Georg Feldmann) The list of 1438 unique records/compounds/NAMPT inhibitors with pIC50 ≥ 6 = IC50 ≤ 1 µM
 
-**#ORIGINALCOLUMNNAME --> **
+**
+#DIFFERENT_BETWEEN_input_1438_unique_NAMPTis_step20_2020.05.29_original_VS_input_1438_unique_NAMPTis_step20_2020.05.29_modified**
+In the "input_1438_unique_NAMPTis_step20_2020.05.29_modified", I deleted the following additional columns:
+No (original)	
+No (sort by pIC50)	
+No (final; sorted by pChEMBL value)
+
+**#ORIGINAL_COLUMN_NAME_VS_MODIFIED COLUM_NAME --> **
 Molecule ChEMBL ID --> Molecule_ChEMBL_ID
 Molecule Name --> Molecule_Name
 Molecule Max Phase --> Molecule_Max_Phase
 Molecular Weight --> Molecular_Weight
 #RO5 Violations --> #RO5_Violations
-AlogP --> AlogP (SAME)
+AlogP --> AlogP (KEPT)
 Compound Key --> Compound_Key
-Smiles --> Smiles (SAME)
+Smiles --> Smiles (KEPT)
 Standard Type --> Standard_Type
 Standard Relation --> Standard_Relation
 Standard Value --> Standard_Value
 Standard Units --> Standard_Units
 pChEMBL Value --> pChEMBL_Value
 Data Validity Comment --> Data_Validity_Comment
-Comment --> Comment (SAME)
+Comment --> Comment (KEPT)
 Uo Units --> Uo_Units
 Ligand Efficiency BEI --> Ligand_Efficiency_BEI
 Ligand Efficiency LE --> Ligand_Efficiency_LE
@@ -67,9 +74,4 @@ Document Journal --> Document_Journal
 Document Year --> Document_Year
 Cell ChEMBL ID --> Cell_ChEMBL_ID
 
-**
-#DIFFERENT_BETWEEN_input_1438_unique_NAMPTis_step20_2020.05.29_original_VS_input_1438_unique_NAMPTis_step20_2020.05.29_modified**
-In the "input_1438_unique_NAMPTis_step20_2020.05.29_modified", I deleted the following additional columns:
-No (original)	
-No (sort by pIC50)	
-No (final; sorted by pChEMBL value)
+
