@@ -80,4 +80,6 @@ Document Journal --> Document_Journal
 Document Year --> Document_Year
 Cell ChEMBL ID --> Cell_ChEMBL_ID
 
+**
+#The next step is to visualize the data by using matplotlib**
 
