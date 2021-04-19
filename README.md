@@ -93,8 +93,11 @@ FILTERING
 **
 I deleted all dataset with pChEMBL 5-5.99 (IC50 1 µM - 10 µM) because we consider compounds with these pChEMBL values are bias**
 excluded (no pChEMBL value) = 32
-excluded (potential bias; pChEMBL 5 - 5.99) = 143
-excluded (potential bias; unspecified IC50 value) = 58
+excluded (potential bias; pChEMBL 5 - 5.99) = 143 records
+excluded (potential bias; unspecified IC50 value) = 58 records
+inhibitor = 2467 records
+non-inhibitor = 73 records
+TOTAL = 32 + 143 + 58 + 2467 + 73 = 2773 records (correct)
 
 
 **The next step is to visualize the data by using matplotlib**
