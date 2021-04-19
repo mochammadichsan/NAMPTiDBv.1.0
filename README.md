@@ -80,6 +80,14 @@ Document Journal --> Document_Journal
 Document Year --> Document_Year
 Cell ChEMBL ID --> Cell_ChEMBL_ID
 
-**
+**IC50 to pIC50 conversion**
+IC50 = 100 µM = pIC50 = 4
+IC50 = 10 µM = pIC50 = 5
+IC50 = 1 µM = pIC50 = 6
+IC50 = 100 nM = pIC50 = 7
+IC50 = 10 nM = pIC50 = 8
+IC50 = 1 nM = pIC50 = 9
+IC50 = 100 pM = pIC50 = 10
+
 #The next step is to visualize the data by using matplotlib**
 
