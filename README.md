@@ -99,6 +99,8 @@ inhibitor = 2467 records
 non-inhibitor = 73 records
 TOTAL = 32 + 143 + 58 + 2467 + 73 = 2773 records (correct)
 
+JUMLAH inhibitor + non-inhibitor = 2467 + 73 = 2540 records
+
 
 **The next step is to visualize the data by using matplotlib**
 
