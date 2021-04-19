@@ -89,8 +89,13 @@ IC50 = 10 nM = pIC50 = 8
 IC50 = 1 nM = pIC50 = 9
 IC50 = 100 pM = pIC50 = 10
 
+FILTERING
 **
 I deleted all dataset with pChEMBL 5-5.99 (IC50 1 µM - 10 µM) because we consider compounds with these pChEMBL values are bias**
+excluded (no pChEMBL value) = 32
+excluded (potential bias; pChEMBL 5 - 5.99) = 143
+excluded (potential bias; unspecified IC50 value) = 58
+
 
 **The next step is to visualize the data by using matplotlib**
 
