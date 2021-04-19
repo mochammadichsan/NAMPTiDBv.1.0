@@ -89,5 +89,8 @@ IC50 = 10 nM = pIC50 = 8
 IC50 = 1 nM = pIC50 = 9
 IC50 = 100 pM = pIC50 = 10
 
+**
+I deleted all dataset with pChEMBL 5-5.99 (IC50 1 µM - 10 µM) because we consider compounds with these pChEMBL values are bias**
+
 **The next step is to visualize the data by using matplotlib**
 
