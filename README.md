@@ -89,5 +89,5 @@ IC50 = 10 nM = pIC50 = 8
 IC50 = 1 nM = pIC50 = 9
 IC50 = 100 pM = pIC50 = 10
 
-#The next step is to visualize the data by using matplotlib**
+**The next step is to visualize the data by using matplotlib**
 
