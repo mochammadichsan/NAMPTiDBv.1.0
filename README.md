@@ -95,11 +95,11 @@ I deleted all dataset with pChEMBL 5-5.99 (IC50 1 µM - 10 µM) because we consi
 excluded (no pChEMBL value) = 32
 excluded (potential bias; pChEMBL 5 - 5.99) = 143 records
 excluded (potential bias; unspecified IC50 value) = 58 records
-inhibitor = 2467 records
+inhibitor = 2466 records (previously I thought there were 2467 but then I realized that CHEMBL4115890 need to be excluded from the list because it does not SMILES)
 non-inhibitor = 73 records
-TOTAL = 32 + 143 + 58 + 2467 + 73 = 2773 records (correct)
+TOTAL = 32 + 143 + 58 + 2466 + 73 = 2772 records (correct)
 
-JUMLAH inhibitor + non-inhibitor = 2467 + 73 = 2540 records
+JUMLAH inhibitor + non-inhibitor = 2466 + 73 = 2539 records
 
 
 **The next step is to visualize the data by using matplotlib**
