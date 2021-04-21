@@ -101,6 +101,7 @@ TOTAL = 32 + 143 + 58 + 2466 + 73 = 2772 records (correct)
 
 JUMLAH inhibitor + non-inhibitor = 2466 + 73 = 2539 records
 
+I used CodePen Home "Duplicate Word Finder (https://codepen.io/finnhvman/pen/oPwXRa)" to find duplication in this NAMPT list
 
 **The next step is to visualize the data by using matplotlib**
 
